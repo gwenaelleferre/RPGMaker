@@ -1,5 +1,7 @@
 [
 null,
-null,
-{"id":2,"expanded":false,"name":"MAP002","order":1,"parentId":0,"scrollX":832,"scrollY":640}
+{"id":1,"expanded":false,"name":"START_BEACH","order":2,"parentId":0,"scrollX":728,"scrollY":402.6666666666667},
+{"id":2,"expanded":false,"name":"HOUSE","order":1,"parentId":0,"scrollX":728,"scrollY":402.6666666666667},
+{"id":3,"expanded":false,"name":"Plaine","order":3,"parentId":0,"scrollX":728,"scrollY":402.6666666666667},
+{"id":4,"expanded":false,"name":"Test catch","order":4,"parentId":0,"scrollX":728,"scrollY":402.6666666666667}
 ]
